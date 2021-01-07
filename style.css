@@ -1,12 +1,12 @@
 body
 {
-	background-color:moccasin;
+	background-color:navajowhite;
 }
 
 a
 {
 	color:white;
-	background-color:black;
+	background-color:brown;
 	padding:15px;
 	text-align:center;
 	text-decoration:none;
@@ -22,4 +22,9 @@ h1
 h2
 {
 	font-family: 'Fredoka One', cursive;
+}
+
+h3
+{
+	font-family: 'Concert One', cursive;
 }
